@@ -72,10 +72,10 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || "",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : proncess.env.VERSION || "1.3.8",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝜜𝜿𝜶𝜹ի ꭗ𝝐𐑾 💌 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "",
+  packname: process.env.PACK_NAME || "／𝛫𝛂𝛎𝛊𝛄𝛖𝛗𝛂𝛈 ꭗ𝝐𐑾 💌",
   botname : process.env.BOT_NAME  || "／𝛫𝛂𝛎𝛊𝛄𝛖𝛗𝛂𝛈 ꭗ𝝐𐑾 💌",
   ownername:process.env.OWNER_NAME|| "𝜜𝜿𝜶𝜹ի ꭗ𝝐𐑾 💌",
 
